@@ -4,7 +4,7 @@
 ## Usage
 1. > git clone git.xxx
 
-2. > cd vite-vue3-chrome-extension
+2. > cd Vite-Vue3-Typescript-Chrome-Extension-Template
 
 3. > pnpm install
 
